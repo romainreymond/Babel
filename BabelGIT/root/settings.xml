@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Fichier de configuration BABEL
+	BDD acces  includes>core>connect>database.php
+	
+ -->
+ 
+ <settings>
+ 		<database>
+ 			<host >localhost</host>
+ 			<port>3307</port>
+ 			<username>root</username>
+ 			<password>usbw</password>
+ 			<dbname>BABEL</dbname>
+ 		</database>
+ </settings>
